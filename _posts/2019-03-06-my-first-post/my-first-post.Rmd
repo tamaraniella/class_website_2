@@ -18,7 +18,7 @@ library(tidyverse)
 
 Here is a figure yeah yeah yeah 
 
-```{r plot1}
+```{r plot1, layout= "l-body-outset"}
 
 ggplot(mpg, aes(displ, cty))+
   geom_point(aes(color=drv))+
