@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-03-06-my-first-post/",
+    "title": "my first post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [],
+    "preview": "posts/2019-03-06-my-first-post/my-first-post_files/figure-html5/plot1-1.png",
+    "last_modified": "2019-03-06T10:51:50-08:00"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog oh yeah",
     "description": "Welcome to our new blog, My Blog oh yeah. We hope you enjoy \nreading what we have to say!",
@@ -12,6 +27,6 @@
     "date": "2019-03-06",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-03-06T10:31:25-08:00"
+    "last_modified": "2019-03-06T10:52:15-08:00"
   }
 ]
