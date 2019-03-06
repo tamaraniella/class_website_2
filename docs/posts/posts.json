@@ -28,5 +28,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-03-06T10:52:15-08:00"
+  },
+  {
+    "path": "posts/2019-03-06-my-second-post/",
+    "title": "my second post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [],
+    "preview": "posts/2019-03-06-my-second-post/my-second-post_files/figure-html5/plot2-1.png",
+    "last_modified": "2019-03-06T10:55:47-08:00"
   }
 ]

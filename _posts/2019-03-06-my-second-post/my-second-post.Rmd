@@ -1,0 +1,32 @@
+---
+title: "my second post"
+description: |
+  A short description of the post.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 03-06-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Oh look at this! 
+
+```{r plot2}
+
+ggplot(mpg, aes(displ, cty))+
+  geom_point(aes(color=drv))+
+  theme_minimal()
+
+```
+
+Radix is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Radix at <https://rstudio.github.io/radix>.
+
